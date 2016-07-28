@@ -4,7 +4,9 @@ Swift UIView subclass that flips like a double-sided coin between two views.
 ![FlipView](/Users/pandong/Desktop/FlipView.gif)
 
 ## Usage
-Creat the FlipView
+>Add `FlipView.swift` into your project
+
+>Creat the FlipView
 
 `let flipView = FlipView()`
 
@@ -12,13 +14,13 @@ Creat the FlipView
 
 `flipView.frame = CGRect(x: 125, y: 100, width: 100, height: 100)`
 
-Set the primaryView and SecondaryView
+>Set the primaryView and SecondaryView
  
 `flipView.primaryView.image = UIImage(named: "surfingCamp")`
 
 `flipView.secondaryView.image = UIImage(named: "pokemon2")`
 
-Start to flip
+>Start to flip
 
 `startFlip()`
 
