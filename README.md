@@ -1,7 +1,7 @@
 # FlipView
 Swift UIView subclass that flips like a double-sided coin between two views.
 
-![FlipView](/Users/pandong/Desktop/FlipView.gif)
+![FlipView](Resource/FlipView.gif)
 
 ## Usage
 >Add `FlipView.swift` into your project
